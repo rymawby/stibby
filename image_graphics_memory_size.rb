@@ -29,4 +29,4 @@ def vram_in_mb( dir )
 end
 
 
-puts vram_in_mb( "/Sky/skystoreyouview/asset/img/" ).to_s << "mb"
+puts vram_in_mb( "/asset/img/" ).to_s << "mb"
